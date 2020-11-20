@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>欢迎使用XXX签到系统</title>
+<title>欢迎使用XXXXX签到系统</title>
 </head>
 <body style="text-align:center"  >
 
