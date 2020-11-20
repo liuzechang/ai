@@ -9,5 +9,7 @@
 </h1>
 <h3><a href="oa.html">签到</a></h3>
 <h3><a href="game.html">游戏</a></h3>
+<h3><a href="http://baidu.com/">baidu</a></h3>
+<h3><a href="game.html">游戏</a></h3>
 </body>
 </html>
