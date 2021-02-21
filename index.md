@@ -9,8 +9,6 @@
 </h1>
 <input type="button" style="width:300px; height:50px;" onclick="document.getElementById('demo1').innerHTML =
 	'签到成功'+'<br /><h3>'+Date()+'</h3>';"  value="上班签到" /><br />
-<!-- <button style="text-align:center" type="button" onclick="document.getElementById('demo1').innerHTML =
-	'签到成功'+'<br /><h3>'+Date()+'</h3>';" >上班签到</button><br /> -->
 </h1>
 <p id="demo1"></p>
 <h3><a href="oa.html">签到</a></h3>
