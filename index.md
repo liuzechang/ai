@@ -1,9 +1,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>欢迎使用快乐上班签到系统</title>
+<title>欢迎使用快乐上班签到系统1</title>
 </head>
-<body style="text-align:center"  >
+<body style="text-align:center">
 <h1 style="line-height:height fontSize=200px;">
 欢迎使用快乐上班签到系统<br />
 </h1>
