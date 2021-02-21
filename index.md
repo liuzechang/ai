@@ -6,6 +6,6 @@
 </h1>
 <p id="demo1"></p>
 <h3><a href="oa.html">签到</a></h3>
-<h3><a href="game.html">石油质量评估-水分计算</a></h3>
+<h3><a href="game.html">石油质量评估系统-水分计算程序(工业计算)</a></h3>
 <h3><a href="game.html">智慧冶金-仓储成品数量预测-半成品库存管理-价值计算</a></h3>
 <h3><a href="http://baidu.com/">百度一下</a></h3>
