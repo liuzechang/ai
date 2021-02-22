@@ -1,7 +1,7 @@
 <body style="text-align:center">
 <h1 style="line-height:height fontSize=200px;">
-欢迎使用智慧工业生产管理系统<br />
-	石油质量评估系统(工业互联网云计算平台)<br /></h1><h3>
+	欢迎使用智慧工业生产管理系统<br /></h1><h2>
+	石油质量评估系统(工业互联网云计算平台)<br /></h2><h3>
 	<a href="oil/index_oil.html">石油水分监测程序</a><br /></h3><h1>
 <a href="oil_cangku/index.html">智慧冶金系统-仓储成品数量预测-半成品库存管理-仓储价值计算</a><br />
 <input type="button" style="width:300px; height:50px;" onclick="document.getElementById('demo1').innerHTML =
