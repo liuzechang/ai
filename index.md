@@ -12,7 +12,7 @@
 	<h1>企业大数据云计算监测管控平台</h1>
 	<h3>企业销售运营数据中心</h3>
 	<h3>企业信息化统一管理系统</h3>
-<h1><input type="button" style="width:200px; height:35px;" onclick="document.getElementById('demo1').innerHTML =
+<h1><input type="button" style="width:200px; height:50px;" onclick="document.getElementById('demo1').innerHTML =
 '签到成功'+'<br /><h3>签到时间'+Date()+'</h3>';"  value="上班签到" /><br />
 </h1>
 <p id="demo1"></p>
