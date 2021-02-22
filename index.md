@@ -3,9 +3,13 @@
 	欢迎使用智慧工业生产管理系统<br /></h1><h2>
 	石油质量评估系统(工业互联网云计算平台)<br /></h2><h3>
 	<a href="oil/index_oil.html">石油水分监测程序</a><br /></h3>
-	<h2>智慧冶金系统-仓储成品数量预测-半成品库存管理-</h2>
+	<h2>智慧化工生产管理平台</h2>
+	<h3>整体仓储生产分析</h3>
+	<h3>产品生产分析设置</h3>
+	<h3>产品生产适配分析</h3>
+	<h3>库存物料生产分析</h3>
+	<h3><a href="oil_cangku/index.html">仓储价值计算</a><br /></h3>
 	<h1>
-<a href="oil_cangku/index.html">仓储价值计算</a><br />
 <input type="button" style="width:300px; height:50px;" onclick="document.getElementById('demo1').innerHTML =
 	'签到成功'+'<br /><h3>签到时间'+Date()+'</h3>';"  value="上班签到" /><br />
 </h1>
