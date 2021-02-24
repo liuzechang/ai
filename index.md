@@ -12,6 +12,8 @@
 	<h1>企业大数据云计算监测管控平台</h1>
 	<h3>企业销售运营数据中心</h3>
 	<h3>企业信息化统一管理系统</h3>
+	<h2><a href="eco/index.html">销售网站</a><br /></h2>
+	<h2><a href="mobile/index.html">手机端网站</a><br /></h2>
 <h1><input type="button" style="width:200px; height:50px;" onclick="document.getElementById('demo1').innerHTML =
 '签到成功'+'<br /><h3>签到时间'+Date()+'</h3>';"  value="上班签到" /><br />
 </h1>
