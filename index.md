@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 智慧工厂生产管理系统
 
 You can use the [editor on GitHub](https://github.com/liuzechang/show/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
