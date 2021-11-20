@@ -1,8 +1,7 @@
 ## 智慧工厂生产管理系统
+鄙人致力于打造最先进的工业云计算系统
+欢迎有理想的人给我介绍份工作
 
-You can use the [editor on GitHub](https://github.com/liuzechang/show/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
